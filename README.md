@@ -77,7 +77,7 @@ This results in **stronger, more coherent, and more reliable AI assistants**.
 
 You can find the complete system prompt in:
 
-👉 **[`PROMPT_MOTHER.md`](./PROMPT_MOTHER.md)**
+👉 **[`prompt.md`](./prompt.md)**
 
 Copy and paste it directly into your LLM's system instructions.
 
